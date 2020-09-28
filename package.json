@@ -1,0 +1,24 @@
+{
+  "name": "object-schemify",
+  "version": "1.0.0",
+  "description": "Cast Javascript objects into Mongoose Schema format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilherssousa/object-schemify.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "casting"
+  ],
+  "author": "Guilherme Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilherssousa/object-schemify/issues"
+  },
+  "homepage": "https://github.com/guilherssousa/object-schemify#readme"
+}
