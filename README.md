@@ -83,3 +83,6 @@ To contribute:
 - Commit your changes: `git commit -m 'feat: My new feature'`
 - Push your branch: `git push origin my-feature`
 - Go to [Pull Requests](https://github.com/guilherssousa/object-schemify/pulls) of the original project and create a pull request with your commit
+
+Contributors:
+[u/vorticalbox](https://www.reddit.com/user/vorticalbox/) on Reddit
