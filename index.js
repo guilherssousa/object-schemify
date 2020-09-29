@@ -19,7 +19,7 @@ function castString(str) {
 }
 
 const checkObjects = (obj) => {
-	let schema = {};
+	let schema = {}
 	try {
 	    Object.keys(obj).forEach(key => {
 			schema[key] = castString(typeOf(obj[key]))
